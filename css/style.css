@@ -188,6 +188,7 @@ main .bottom-wrap .right-box .bot-wrap .txt-box .tags p:first-child{margin-right
     header .login-box .basket .basket-img img{padding: 5px;}
     header .ham{display: block; margin-left: 16px;}
 
+    main h1, main .top-wrap{display: none;}
     main .container{margin: 16px;}
     main .bottom-wrap .right-box .top-wrap .top-box .cate{display: none;}
     main .bottom-wrap{flex-direction: column; margin-top: 0;}
